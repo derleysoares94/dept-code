@@ -48,6 +48,12 @@ php artisan harvard:fetch_books "author" "genre"
 // or We didn't find any book
 ```
 
+API routes to fetch all books from DB
+
+```bash
+http://localhost:8989/api/books
+```
+
 API routes to fetch data from DB by ID
 
 ```bash
